@@ -3,6 +3,8 @@
 memory card game using React the objective is click without repeat
 
 Play 🚀 : https://memory-card-one-taupe.vercel.app
+Preview 📸
+<img width="1897" height="826" alt="image" src="https://github.com/user-attachments/assets/3deb5424-a541-4fcd-85a5-8ad582db713b" />
 
 🛠️ Used Technologies
 React
