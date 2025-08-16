@@ -1,6 +1,6 @@
 #Pokemon Memory Game
 
-memory card game using React the objective is click without repeat
+Card game the objective is to click all the cards without repeating any.
 
 Play 🚀 : https://memory-card-one-taupe.vercel.app <br/>
 Preview 📸
