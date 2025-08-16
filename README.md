@@ -1,4 +1,4 @@
-#Memory Card Game
+#Pokemon Memory Game
 
 memory card game using React the objective is click without repeat
 
