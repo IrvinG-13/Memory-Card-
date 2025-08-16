@@ -14,10 +14,10 @@ CSS
 
 🎮 How to play
 
-*Click on the cards.
-*Don't repeat any.
-*If you click on a duplicate, you lose! 😅
-*Try to get the highest score.
+*Click on the cards.<br/>
+*Don't repeat any.<br/>
+*If you click on a duplicate, you lose! 😅<br/>
+*Try to get the highest score.<br/>
 
 🧑‍💻 Autor
 Irvin Gonzalez
