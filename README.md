@@ -8,9 +8,9 @@ Preview 📸
 
 
 🛠️ Used Technologies
-React
-JavaScript (ES6)
-CSS
+-React
+-JavaScript (ES6)
+-CSS
 
 🎮 How to play
 
