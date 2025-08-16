@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.App{
+    display: flex;
+    height: 100vh;
+    flex-direction: column;
+}
+
+header{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    padding: 20px 10px;
+    background-color: bisque;
+    justify-content: space-around;
+}
+
+.points{
+    display: flex;
+    flex-direction: column;
+}
+
+.pokeGrid{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 20px;
+    padding: 20px;
+    justify-items: center;
+    align-items: center;
+}
+
+.pokeCard{
+    width: 200px;
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+    background-color: bisque;
+    padding: 20px;
+}
+
+.pokeCard:hover{
+    width: 210px;
+    transition: 0.3s;
+}
+
+.id{
+    text-transform: capitalize;
+}
